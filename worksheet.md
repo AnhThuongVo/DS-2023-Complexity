@@ -1,11 +1,10 @@
-# 02/07 Worksheet: Complexity & Recursion
-## Initial due date: 02/11 @ 5pm
-#### accepted as on time until 02/13 @11:59pm
+# 09/18 Worksheet: Complexity & Recursion
+#### accepted as on time until 09/25 @11:59pm
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done, make a pull request and tag @irabkina.
-Respond to my comments by making new commits to the same branch.
+When done, make a pull request and tag @Anh-Thuong-Vo.
+
 
 ## Review
 1. In your own words, what is computational complexity? Why is it important to consider?
